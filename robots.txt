@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-docs-demo.netlify.app/DREAME-WEB/sitemap.xml
+Sitemap: https://944390394.github.io/DREAME-WEB/DREAME-WEB/sitemap.xml
