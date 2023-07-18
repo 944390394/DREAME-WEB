@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/DREAME-WEB/",
+  base: "/",
 
   lang: "zh-CN",
   title: "DreameLink(公测版)",
