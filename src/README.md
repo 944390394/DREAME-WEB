@@ -68,7 +68,6 @@ highlights:
       - title: 过期检测
         icon: quote-left
         details: 如果过期，我们将第一时间提示
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/footnote.html
 
       - title: 自动清理
         icon: highlighter

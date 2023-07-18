@@ -7,10 +7,11 @@
     "\\src\\.vuepress",
     "\\src\\.vuepress\\public",
     "\\src\\.vuepress\\public\\assets",
+    "\\src\\.vuepress\\public\\assets\\icon",
     "\\src\\demo",
     "\\src\\guide",
     "\\src\\guide\\bar"
   ],
-  "SelectedNode": "\\src\\README.md",
+  "SelectedNode": "\\src\\.vuepress\\styles",
   "PreviewInSolutionExplorer": false
 }
