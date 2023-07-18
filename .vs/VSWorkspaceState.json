@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\src",
+    "\\src\\.vuepress",
+    "\\src\\.vuepress\\public",
+    "\\src\\.vuepress\\public\\assets",
+    "\\src\\demo",
+    "\\src\\guide",
+    "\\src\\guide\\bar"
   ],
-  "SelectedNode": "\\D:\\Dreame-Web",
+  "SelectedNode": "\\src\\.vuepress\\navbar.ts",
   "PreviewInSolutionExplorer": false
 }

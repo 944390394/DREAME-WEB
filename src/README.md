@@ -28,28 +28,6 @@ highlights:
     highlights:
       - title: 运行DreameLink联机程序，立刻享受畅快联机
       - title: 自动检测安装环境，为你的联机减轻烦恼
-
-  - header: 新功能
-    image: /assets/image/features.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
-    features:
-      - title: 自动配置联机环境
-        icon: comment-dots
-        details: 输入密钥，即可快速联机
-
-      - title: 自动检测联机状态
-        icon: circle-info
-        details: 守护进程，守护你的联机状态
-
-      - title: 自动更新
-        icon: lock
-        details: 时刻为你准备联机状态
-
-      - title: 随机标题
-        icon: search
-        details: 支持用户投稿
-
   - header: 在 全新的 DreameLink 中使用
     description: 我们经过不停的开发，为你添加了成吨功能。
     image: /assets/image/markdown.svg
@@ -107,6 +85,51 @@ highlights:
       - title: 守护进程
         icon: square
         details: 时刻守护你的联机体验
+
+  - header: 新功能
+    image: /assets/image/features.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
+    features:
+      - title: 自动配置
+        icon: comment-dots
+        details: 输入密钥，即可快速联机
+
+      - title: 自动检测联机状态
+        icon: circle-info
+        details: 守护进程，守护你的联机状态
+
+      - title: 自动更新
+        icon: lock
+        details: 时刻为你准备联机状态
+
+      - title: 随机标题
+        icon: search
+        details: 支持用户投稿
+
+  - header: 凭证价格
+    description: 以超低的价格，实现超级联机效果
+    image: /assets/image/advanced.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
+    highlights:
+      - title: 日卡
+        icon: dumbbell
+        details: 日度凭证 未定 RMB/个
+        link: https://afdian.net/item/2af2d328eda011ed8eb652540025c377
+
+      - title: 周卡
+        icon: sitemap
+        details: 周度凭证 未定 RMB/个
+        link: https://afdian.net/item/4e4cd92a1f3411eeab2c52540025c377
+
+      - title: 月卡
+        icon: rss
+        details: 月度凭证 未定 RMB/个
+        link: https://afdian.net/item/9b7b08a21f3411eeb74252540025c377
+
+
+
 
 
 
