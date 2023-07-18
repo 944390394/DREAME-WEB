@@ -27,7 +27,7 @@ jobs:
       - name: 设置 Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 14
+          node-version: 18.16.1
           cache: pnpm
 
       - name: 构建文档
