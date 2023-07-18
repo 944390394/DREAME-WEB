@@ -26,6 +26,7 @@ MC版本：1.12.2
 
 ## 操作DreameLink
 
+![房主方](/assets/image/fz.png "房主方")
 
 ### 先按1输入端口号
 ![输入端口号](/assets/image/ssdk.png "输入端口号")
