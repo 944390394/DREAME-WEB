@@ -7,7 +7,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "DreameLink联机(公测版)",
-  description: "DreameLink联机程序的使用文档",
+  description: "一款优秀的我的世界联机程序",
 
   theme,
 
