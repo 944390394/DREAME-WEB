@@ -1,5 +1,3 @@
 
 User-agent:*
 Disallow:
-
-Sitemap: https://www.dreame.top/DREAME-WEB/sitemap.xml
