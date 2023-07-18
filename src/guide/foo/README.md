@@ -1,11 +1,11 @@
 ---
-title: Foo 功能
+title: 加入方教程
 icon: lightbulb
 ---
 
 ## 介绍
 
-我们支持 foo 功能，...
+加入方请看这里，...
 
 ## 详情
 

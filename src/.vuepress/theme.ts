@@ -3,18 +3,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+    hostname: "https://944390394.github.io/DREAME-WEB",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "梦游泪世",
+    //url: "https://mister-hope.com",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+    repo: "944390394/DREAME-WEB",
 
   docsDir: "src",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  footer: "网站备案号：xxx",
 
   displayFooter: true,
 
@@ -41,13 +41,7 @@ export default hopeTheme({
 
   plugins: {
     // You should generate and use your own comment service
-    comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
+
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {

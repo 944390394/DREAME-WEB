@@ -1,5 +1,5 @@
 ---
-title: Bar 功能
+title: 创建方教程
 icon: lightbulb
 ---
 

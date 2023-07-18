@@ -1,5 +1,5 @@
 ---
-title: Ray
+title: 加入方
 icon: circle-info
 ---
 

@@ -4,27 +4,22 @@ export default navbar([
   "/",
   "/demo/",
   {
-    text: "指南",
+    text: "使用教程",
     icon: "lightbulb",
     prefix: "/guide/",
     children: [
       {
-        text: "Bar",
+        text: "创建方",
         icon: "lightbulb",
         prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
+        children: ["baz", { text: "创建方常见问题", icon: "ellipsis", link: "" }],
       },
       {
-        text: "Foo",
+        text: "加入方",
         icon: "lightbulb",
         prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+        children: ["ray", { text: "加入方常见问题", icon: "ellipsis", link: "" }],
       },
     ],
-  },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
   },
 ]);

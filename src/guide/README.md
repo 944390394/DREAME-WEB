@@ -3,14 +3,14 @@ title: 指南
 icon: lightbulb
 ---
 
-## 功能亮点
+## 使用教程
 
-### Bar
+### 创建方
 
-- [baz](bar/baz.md)
-- ...
+- [创建方](bar/baz.md)
+- [创建方常见问题](bar/)
 
-### Foo
+### 加入方
 
-- [ray](foo/ray.md)
-- ...
+- [加入方](foo/ray.md)
+- [加入方常见问题](foo/)

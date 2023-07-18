@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/DREAME-WEB/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "DreameLink(公测版)",
+    description: "DreameLink的使用文档",
 
   theme,
 
