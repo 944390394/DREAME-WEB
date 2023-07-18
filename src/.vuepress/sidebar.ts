@@ -8,7 +8,7 @@ export default sidebar({
       icon: "laptop-code",
       prefix: "demo/",
       link: "demo/",
-      children: "structure",
+      children: ["README.md"],
     },
     {
       text: "使用教程",
@@ -16,6 +16,6 @@ export default sidebar({
       prefix: "guide/",
       children: "structure",
     },
-    "slides",
+    //"slides",
   ],
 });

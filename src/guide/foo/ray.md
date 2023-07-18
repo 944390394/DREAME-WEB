@@ -1,6 +1,6 @@
 ---
-title: 加入方
+title: 加入方常见问题
 icon: circle-info
 ---
 
-功能详情...
+正在收集...
