@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-    hostname: "https://944390394.github.io/DREAME-WEB",
+    hostname: "https://www.dreame.top/DREAME-WEB",
 
   author: {
     name: "梦游泪世",
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "网站备案号：xxx",
+    footer: "网站备案号：鄂ICP备2022016738号-1",
 
   displayFooter: true,
 
