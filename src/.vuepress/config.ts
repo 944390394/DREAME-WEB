@@ -7,8 +7,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "DreameLink联机(公测版)",
-  description: "一款优秀的我的世界联机程序",
-
+  description: "一款优秀的我的世界联机工具，超低延迟，速度联机，快来使用DreameLink来和朋友在MC里遨游吧",
   theme,
 
   // Enable it with pwa
