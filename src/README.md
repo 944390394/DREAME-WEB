@@ -138,5 +138,5 @@ highlights:
 
 
 copyright: false
-footer: MIT 协议, 版权所有 © 2023-present 梦游泪世 |备案号：鄂ICP备2022016738号-1
+footer: 版权所有 © 2023-present 梦游泪世 |备案号：鄂ICP备2022016738号-1
 ---

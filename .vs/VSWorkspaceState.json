@@ -1,17 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
     "\\src",
     "\\src\\.vuepress",
     "\\src\\.vuepress\\public",
     "\\src\\.vuepress\\public\\assets",
     "\\src\\.vuepress\\public\\assets\\icon",
+    "\\src\\.vuepress\\styles",
     "\\src\\demo",
     "\\src\\guide",
-    "\\src\\guide\\bar"
+    "\\src\\guide\\bar",
+    "\\src\\guide\\foo"
   ],
-  "SelectedNode": "\\src\\.vuepress\\styles",
+  "SelectedNode": "\\src\\README.md",
   "PreviewInSolutionExplorer": false
 }
