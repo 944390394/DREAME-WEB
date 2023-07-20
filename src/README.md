@@ -2,12 +2,13 @@
 home: true
 icon: home
 title: DreameLink联机程序
+description: DreameLink联机启动器,一款优秀的我的世界联机工具，超低延迟，速度联机，快来使用DreameLink来和朋友在MC里遨游吧
 heroImage: /logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: DreameLink（正在公测）
+heroText: DreameLink（众测中）
 tagline:  联接梦想   Link 联机
 actions:
   - text: 使用指南 💡

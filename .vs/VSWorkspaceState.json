@@ -12,6 +12,6 @@
     "\\src\\guide\\bar",
     "\\src\\guide\\foo"
   ],
-  "SelectedNode": "\\src\\README.md",
+  "SelectedNode": "\\src\\.vuepress\\theme.ts",
   "PreviewInSolutionExplorer": false
 }
