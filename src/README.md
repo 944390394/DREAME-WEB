@@ -115,17 +115,17 @@ highlights:
     highlights:
       - title: 日卡
         icon: dumbbell
-        details: 日度凭证 未定 RMB/个
+        details: 【日度凭证】 <s>原价 2 RMB/个</s> 现价 1 RMB/个
         link: https://afdian.net/item/2af2d328eda011ed8eb652540025c377
 
       - title: 周卡
         icon: sitemap
-        details: 周度凭证 未定 RMB/个
+        details: 【周度凭证】 <s>原价 7 RMB/个</s> 现价 14 RMB/个
         link: https://afdian.net/item/4e4cd92a1f3411eeab2c52540025c377
 
       - title: 月卡
         icon: rss
-        details: 月度凭证 未定 RMB/个
+        details: 【月度凭证】 <s>原价 30 RMB/个</s> 现价 15 RMB/个
         link: https://afdian.net/item/9b7b08a21f3411eeb74252540025c377
 
 
