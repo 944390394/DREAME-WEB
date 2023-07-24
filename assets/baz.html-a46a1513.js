@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,d as c}from"./app-797a846a.js";const _={},s=c("p",null,"正在收集...",-1),n=[s];function r(a,l){return t(),o("div",null,n)}const i=e(_,[["render",r],["__file","baz.html.vue"]]);export{i as default};
