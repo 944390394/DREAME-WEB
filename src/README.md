@@ -120,7 +120,7 @@ highlights:
 
       - title: 周卡
         icon: sitemap
-        details: 【周度凭证】 <s>原价 7 RMB/个</s> 现价 14 RMB/个
+        details: 【周度凭证】 <s>原价 10 RMB/个</s> 现价 5 RMB/个
         link: https://afdian.net/item/4e4cd92a1f3411eeab2c52540025c377
 
       - title: 月卡
